@@ -1,0 +1,12 @@
+
+
+.bg-primary {
+    background: hsl(242, 88%, 23%);
+}
+.bg-secondary{
+    background: rgb(110, 53, 180);
+}
+
+html{
+    scroll-behavior: smooth;
+}
